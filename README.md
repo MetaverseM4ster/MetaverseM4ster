@@ -21,7 +21,7 @@ I am a Smart-Contract Developer
 <div>
   <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" title="Ethereum" alt="Ethereum" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/polygon/polygon-original.svg" title="Polygon" alt="Polygon" width="40" height="40"/>&nbsp;
-  <img src="https://download.logo.wine/logo/Solidity/Solidity-Logo.wine.png" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/3915/PNG/512/solidity_logo_icon_249581.png" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://www.solodev.com/file/13466e21-dd2c-11ec-b9ad-0eaef3759f5f/Hardhat-Logo-Icon.png" title="Hardhat" alt="Hardhat" width="40" height="40"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/99892494?s=200&v=4" title="Foundry" alt="Foundry" width="40" height="40"/>&nbsp;
