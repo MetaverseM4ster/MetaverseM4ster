@@ -7,7 +7,6 @@
 ---
 
 ### 👨🏻‍💻About Me :
-I am a Smart-Contract Developer
 
 - :computer: I work as a smart contract developer at a crypto startup.
 
