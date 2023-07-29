@@ -21,12 +21,12 @@ I am a Smart-Contract Developer
 <div>
   <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" title="Ethereum" alt="Ethereum" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/polygon/polygon-original.svg" title="Polygon" alt="Polygon" width="40" height="40"/>&nbsp;
-  <img src="https://download.logo.wine/logo/Solidity/Solidity-Logo.wine.png" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
+  <img src="https://image.pngaaa.com/291/4112291-middle.png" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://www.solodev.com/file/13466e21-dd2c-11ec-b9ad-0eaef3759f5f/Hardhat-Logo-Icon.png" title="Hardhat" alt="Hardhat" width="40" height="40"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/99892494?s=200&v=4" title="Foundry" alt="Foundry" width="40" height="40"/>&nbsp;
   <img src="https://www.cudedesign.co.uk/wp-content/uploads/2022/06/OpenZeppelin-Programming-Language.png" title="OpenZeppelin" alt="OpenZeppelin" width="40" height="40"/>&nbsp;
-  <img src="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/knid3ofzvtnf9f6ifg7t" title="Alchemy" alt="Alchemy" width="40" height="40"/>&nbsp;
+  <img src="https://assets.website-files.com/6086f3afee58e6a9bb6c8053/63eaaa1951955d2e3352753d_alchemy-mark-david-philipson.png" title="Alchemy" alt="Alchemy" width="40" height="40"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/20999355?s=200&v=4" title="Infura" alt="Infura" width="40" height="40"/>&nbsp;
   <img src="https://docs.ipfs.io/images/ipfs-logo.svg" title="IPFS" alt="IPFS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
